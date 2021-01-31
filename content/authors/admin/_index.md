@@ -14,7 +14,7 @@ organizations:
   url: https://cispa.de/de
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies in the intersection of computer vision, deep learning, and security/privacy.
+bio: My research interest lies in the intersection of applications of generative models, privacy&security in deep learning.
 
 # Interests to show in About widget
 interests:
