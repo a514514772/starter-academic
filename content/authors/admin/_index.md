@@ -14,7 +14,7 @@ organizations:
   url: https://cispa.de/de
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies in the intersection of applications of generative models, privacy&security in deep learning.
+bio: My research interest lies in the intersection of applications of generative models and privacy&security in deep learning.
 
 # Interests to show in About widget
 interests:
@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. student at CISPA – Helmholtz Center for Information Security, Germany, under the supervison of [Mario Fritz](https://cispa.saarland/group/fritz/). My research interest includes applications of generative models, privacy&security in deep learning.
+I am a Ph.D. student at CISPA – Helmholtz Center for Information Security, Germany, under the supervison of [Mario Fritz](https://cispa.saarland/group/fritz/). My research interest includes applications of generative models and privacy&security in deep learning.
 
 Previously, I worked with [Mario Fritz](https://cispa.saarland/group/fritz/) at Max-Planck-Institut für Informati and collaborated with [Wen-Hsiao Peng](https://sites.google.com/g2.nctu.edu.tw/wpeng/cv) and [Wei-Chen Chiu](https://walonchiu.github.io/) at National Chiao Tung University.
 
