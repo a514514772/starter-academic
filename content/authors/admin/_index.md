@@ -70,4 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a Ph.D. student at CISPA – Helmholtz Center for Information Security, Germany, under the supervison of [Mario Fritz](https://cispa.saarland/group/fritz/). My research interest includes applications of generative models, privacy&security in deep learning.
+
+Previously, I worked with [Mario Fritz](https://cispa.saarland/group/fritz/) as an internship at Max-Planck-Institut für Informatik and [Wen-Hsiao Peng](https://sites.google.com/g2.nctu.edu.tw/wpeng/cv) and [Wei-Chen Chiu](https://walonchiu.github.io/) at National Chiao Tung University.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
